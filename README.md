@@ -4,4 +4,4 @@ Hi,
   this is my first edit in GitHub
 Some change in local git repository
 
-Change made under branch version-0.1
+Change made under branch version-0.1 to create conflict
